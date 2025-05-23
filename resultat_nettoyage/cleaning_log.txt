@@ -1,0 +1,9 @@
+=== RAPPORT DE NETTOYAGE ===
+
+GENRE                |      AVANT |      APRES |    SUPPRIMES
+------------------------------------------------------------
+Crime_Mystery        |        103 |         73 |           30
+Fiction              |        241 |        228 |           13
+Humor                |        107 |         79 |           28
+
+TOTAL: 451 -> 380 (-71 supprimés)
