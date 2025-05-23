@@ -1,0 +1,18 @@
+=== STATISTIQUES DU CORPUS ===
+
+               Moyenne mots  Médiane mots  Écart-type mots  Nombre textes  Moyenne mots uniques  Ratio mots uniques
+Genre                                                                                                              
+Crime_Mystery        468.32         329.5           515.66             76                307.93                0.66
+Fiction              916.72         672.5           852.99            230                559.83                0.61
+Humor                437.05         336.0           454.20             84                296.44                0.68
+
+=== DESCRIPTION GÉNÉRALE ===
+              Mots  Mots_uniques
+count   390.000000    390.000000
+mean    726.023077    454.012821
+std     759.022465    398.036146
+min      30.000000     25.000000
+25%     226.250000    173.000000
+50%     519.500000    354.500000
+75%     997.000000    636.250000
+max    6826.000000   2970.000000
