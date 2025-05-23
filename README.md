@@ -23,7 +23,7 @@
 
 ## Quel type de données allez vous exploiter ?
 
-    Les données utilisées sont :
+   Les données utilisées sont :
 
    - Titres de livres issus du Projet Gutenberg, qui est un projet de numérisation de textes libres de droit.
    - Résumés de livres récupérés à partir des pages Wikipédia associées à ces titres.
