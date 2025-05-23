@@ -1,0 +1,11 @@
+=== RAPPORT DE CLASSIFICATION ===
+
+               precision    recall  f1-score   support
+
+        Humor       0.71      0.73      0.72        30
+Crime_Mystery       0.89      0.95      0.92        41
+      Fiction       0.83      0.76      0.80        46
+
+     accuracy                           0.82       117
+    macro avg       0.81      0.82      0.81       117
+ weighted avg       0.82      0.82      0.82       117
