@@ -1,0 +1,22 @@
+=== RAPPORT FINAL ===
+
+Accuracy: 0.8205
+F1-score: 0.8193
+Perte: 0.5582
+
+Détails par classe:
+Humor:
+  - Precision: 0.7097
+  - Recall: 0.7333
+  - F1: 0.7213
+
+Crime_Mystery:
+  - Precision: 0.8864
+  - Recall: 0.9512
+  - F1: 0.9176
+
+Fiction:
+  - Precision: 0.8333
+  - Recall: 0.7609
+  - F1: 0.7955
+
